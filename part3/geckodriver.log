@@ -1,0 +1,35 @@
+1606764510420	geckodriver	INFO	Listening on 127.0.0.1:58550
+1606764648313	geckodriver	INFO	Listening on 127.0.0.1:58651
+1606764651410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\raycu\\AppData\\Local\\Temp\\rust_mozprofileXJCTH8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606764654845	Marionette	INFO	Listening on port 58659
+1606764655085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1606137267, line 2472: unreachable code after return statement
+1606764757267	geckodriver	INFO	Listening on 127.0.0.1:58722
+1606764760390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\raycu\\AppData\\Local\\Temp\\rust_mozprofiledD1gMx"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606764763104	Marionette	INFO	Listening on port 58730
+1606764763574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1606137267, line 2472: unreachable code after return statement
+1606764952712	geckodriver	INFO	Listening on 127.0.0.1:58829
+1606764955805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\raycu\\AppData\\Local\\Temp\\rust_mozprofileY32qOA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606764958117	Marionette	INFO	Listening on port 58838
+1606764958470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1606764961039	Marionette	INFO	Stopped listening on port 58838
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
